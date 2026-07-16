@@ -1,2 +1,2 @@
 # luka-repo
-Репозиторий оптимизированных пакетов исключительно для x86-64-v3.
+https://github.com/lukaruy/luka-repo/releases/tag/PKGBUILD
